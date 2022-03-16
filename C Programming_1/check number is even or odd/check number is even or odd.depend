@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1645757528 source:c:\users\faizan\desktop\check number is even or odd\main.c
+	<stdio.h>
+	<stdlib.h>
+
